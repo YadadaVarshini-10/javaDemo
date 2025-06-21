@@ -1,0 +1,27 @@
+body{
+
+  text-align: center;
+  background-color: azure;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h2{
+
+  color:crimson;
+}
+
+#jokebtn{
+
+  background-color: blue;
+  color: white;
+  width: 150px;
+  height: 50px;
+  border-radius: 50px;
+  border-color: aliceblue;
+}
+
+#joketxt{
+
+  color: darkgreen;
+  font-size: large;
+}
